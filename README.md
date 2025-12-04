@@ -38,8 +38,8 @@ This application takes PDF documents, extracts key content, and generates stunni
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/pdf-image-intigration.git
-cd pdf-image-intigration
+git clone https://github.com/yourusername/PDF_image_intigration.git
+cd PDF_image_intigration
 ```
 
 2. **Setup backend**

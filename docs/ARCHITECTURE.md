@@ -10,7 +10,7 @@ This application takes PDF documents as input, extracts the key concepts and con
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
-│                         FRONTEND                                 │
+│                         FRONTEND                                │
 │  ┌──────────┐ ┌──────────┐ ┌──────────┐ ┌──────────────────┐    │
 │  │  Upload  │ │  Gallery │ │  Auth    │ │  Settings        │    │
 │  │  Module  │ │  View    │ │  Module  │ │  & Preferences   │    │
@@ -19,7 +19,7 @@ This application takes PDF documents as input, extracts the key concepts and con
                               │ HTTPS │
                               ▼       ▼
 ┌─────────────────────────────────────────────────────────────────┐
-│                         BACKEND (FastAPI)                        │
+│                         BACKEND (FastAPI)                       │
 │  ┌──────────┐ ┌──────────┐ ┌──────────┐ ┌──────────────────┐    │
 │  │  Auth    │ │  PDF     │ │  Image   │ │  File            │    │
 │  │  Service │ │  Parser  │ │  Gen     │ │  Manager         │    │
